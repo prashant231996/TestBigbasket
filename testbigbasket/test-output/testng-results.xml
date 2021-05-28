@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="631966" started-at="2021-05-28T12:35:58 IST" finished-at="2021-05-28T12:46:30 IST">
+    <groups>
+      <group name="AllTestWithLogin">
+        <method signature="TestBigbasketWithLogin.test_EditUserProfileTest(java.util.Map)[pri:3, instance:com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0]" name="test_EditUserProfileTest" class="com.htc.bigbasket.test.TestBigbasketWithLogin"/>
+        <method signature="TestBigbasketWithLogin.test_ProductCostVarification(java.util.Map)[pri:4, instance:com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0]" name="test_ProductCostVarification" class="com.htc.bigbasket.test.TestBigbasketWithLogin"/>
+        <method signature="TestBigbasketWithLogin.test_RemoveItemsFromCartTest(java.util.Map)[pri:5, instance:com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0]" name="test_RemoveItemsFromCartTest" class="com.htc.bigbasket.test.TestBigbasketWithLogin"/>
+        <method signature="TestBigbasketWithLogin.test_UserLogin(java.util.Map)[pri:1, instance:com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0]" name="test_UserLogin" class="com.htc.bigbasket.test.TestBigbasketWithLogin"/>
+        <method signature="TestBigbasketWithLogin.test_UserProfileVarification(java.util.Map)[pri:2, instance:com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0]" name="test_UserProfileVarification" class="com.htc.bigbasket.test.TestBigbasketWithLogin"/>
+      </group> <!-- AllTestWithLogin -->
+    </groups>
+    <test name="Test BigBasket" duration-ms="631966" started-at="2021-05-28T12:35:58 IST" finished-at="2021-05-28T12:46:30 IST">
+      <class name="com.htc.bigbasket.test.TestBigbasketWithLogin">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0]" name="browserSetup" is-config="true" duration-ms="14562" started-at="2021-05-28T12:40:33 IST" finished-at="2021-05-28T12:40:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="test_UserLogin(java.util.Map)[pri:1, instance:com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0]" name="test_UserLogin" duration-ms="46099" started-at="2021-05-28T12:40:48 IST" data-provider="UserData" finished-at="2021-05-28T12:41:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_UserLogin -->
+        <test-method status="PASS" signature="test_UserProfileVarification(java.util.Map)[pri:2, instance:com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0]" name="test_UserProfileVarification" duration-ms="36289" started-at="2021-05-28T12:41:35 IST" data-provider="UserData" finished-at="2021-05-28T12:42:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_UserProfileVarification -->
+        <test-method status="PASS" signature="test_EditUserProfileTest(java.util.Map)[pri:3, instance:com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0]" name="test_EditUserProfileTest" duration-ms="103172" started-at="2021-05-28T12:42:12 IST" data-provider="UserData" finished-at="2021-05-28T12:43:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_EditUserProfileTest -->
+        <test-method status="PASS" signature="test_ProductCostVarification(java.util.Map)[pri:4, instance:com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0]" name="test_ProductCostVarification" duration-ms="88440" started-at="2021-05-28T12:43:55 IST" data-provider="UserData" finished-at="2021-05-28T12:45:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_ProductCostVarification -->
+        <test-method status="PASS" signature="test_RemoveItemsFromCartTest(java.util.Map)[pri:5, instance:com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0]" name="test_RemoveItemsFromCartTest" duration-ms="52373" started-at="2021-05-28T12:45:24 IST" data-provider="UserData" finished-at="2021-05-28T12:46:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_RemoveItemsFromCartTest -->
+        <test-method status="PASS" signature="doLogOut()[pri:0, instance:com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0]" name="doLogOut" is-config="true" duration-ms="13717" started-at="2021-05-28T12:46:16 IST" finished-at="2021-05-28T12:46:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogOut -->
+      </class> <!-- com.htc.bigbasket.test.TestBigbasketWithLogin -->
+      <class name="com.htc.bigbasket.test.TestBigbasketWithoutLogin">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:com.htc.bigbasket.test.TestBigbasketWithoutLogin@29d89d5d]" name="browserSetup" is-config="true" duration-ms="12728" started-at="2021-05-28T12:35:58 IST" finished-at="2021-05-28T12:36:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="test_ShopBySearchFunctionality(java.util.Map)[pri:1, instance:com.htc.bigbasket.test.TestBigbasketWithoutLogin@29d89d5d]" name="test_ShopBySearchFunctionality" duration-ms="51340" started-at="2021-05-28T12:36:12 IST" data-provider="UserData" finished-at="2021-05-28T12:37:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_ShopBySearchFunctionality -->
+        <test-method status="PASS" signature="test_ShopByOffer(java.util.Map)[pri:2, instance:com.htc.bigbasket.test.TestBigbasketWithoutLogin@29d89d5d]" name="test_ShopByOffer" duration-ms="54974" started-at="2021-05-28T12:37:04 IST" data-provider="UserData" finished-at="2021-05-28T12:37:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_ShopByOffer -->
+        <test-method status="PASS" signature="test_ShopByCategory(java.util.Map)[pri:3, instance:com.htc.bigbasket.test.TestBigbasketWithoutLogin@29d89d5d]" name="test_ShopByCategory" duration-ms="63583" started-at="2021-05-28T12:37:59 IST" data-provider="UserData" finished-at="2021-05-28T12:39:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_ShopByCategory -->
+        <test-method status="PASS" signature="test_ShopByDealOfWeekOffers(java.util.Map)[pri:4, instance:com.htc.bigbasket.test.TestBigbasketWithoutLogin@29d89d5d]" name="test_ShopByDealOfWeekOffers" duration-ms="53033" started-at="2021-05-28T12:39:03 IST" data-provider="UserData" finished-at="2021-05-28T12:39:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_ShopByDealOfWeekOffers -->
+        <test-method status="PASS" signature="test_AppDownloadFunctionality(java.util.Map)[pri:5, instance:com.htc.bigbasket.test.TestBigbasketWithoutLogin@29d89d5d]" name="test_AppDownloadFunctionality" duration-ms="35926" started-at="2021-05-28T12:39:57 IST" data-provider="UserData" finished-at="2021-05-28T12:40:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_AppDownloadFunctionality -->
+      </class> <!-- com.htc.bigbasket.test.TestBigbasketWithoutLogin -->
+    </test> <!-- Test BigBasket -->
+  </suite> <!-- Suite -->
+</testng-results>

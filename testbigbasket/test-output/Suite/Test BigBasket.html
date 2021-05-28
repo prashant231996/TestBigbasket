@@ -1,0 +1,129 @@
+<html>
+<head>
+<title>TestNG:  Test BigBasket</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test BigBasket</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>10/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri May 28 12:35:58 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>631 seconds (631966 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.htc.bigbasket.test.TestBigbasketWithoutLogin.test_AppDownloadFunctionality()'><b>test_AppDownloadFunctionality</b><br>Test class: com.htc.bigbasket.test.TestBigbasketWithoutLogin<br>Parameters: {firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}</td>
+<td></td>
+<td>35</td>
+<td>com.htc.bigbasket.test.TestBigbasketWithoutLogin@29d89d5d</td></tr>
+<tr>
+<td title='com.htc.bigbasket.test.TestBigbasketWithLogin.test_EditUserProfileTest()'><b>test_EditUserProfileTest</b><br>Test class: com.htc.bigbasket.test.TestBigbasketWithLogin<br>Parameters: {firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}</td>
+<td></td>
+<td>103</td>
+<td>com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0</td></tr>
+<tr>
+<td title='com.htc.bigbasket.test.TestBigbasketWithLogin.test_ProductCostVarification()'><b>test_ProductCostVarification</b><br>Test class: com.htc.bigbasket.test.TestBigbasketWithLogin<br>Parameters: {firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}</td>
+<td></td>
+<td>88</td>
+<td>com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0</td></tr>
+<tr>
+<td title='com.htc.bigbasket.test.TestBigbasketWithLogin.test_RemoveItemsFromCartTest()'><b>test_RemoveItemsFromCartTest</b><br>Test class: com.htc.bigbasket.test.TestBigbasketWithLogin<br>Parameters: {firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}</td>
+<td></td>
+<td>52</td>
+<td>com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0</td></tr>
+<tr>
+<td title='com.htc.bigbasket.test.TestBigbasketWithoutLogin.test_ShopByCategory()'><b>test_ShopByCategory</b><br>Test class: com.htc.bigbasket.test.TestBigbasketWithoutLogin<br>Parameters: {firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}</td>
+<td></td>
+<td>63</td>
+<td>com.htc.bigbasket.test.TestBigbasketWithoutLogin@29d89d5d</td></tr>
+<tr>
+<td title='com.htc.bigbasket.test.TestBigbasketWithoutLogin.test_ShopByDealOfWeekOffers()'><b>test_ShopByDealOfWeekOffers</b><br>Test class: com.htc.bigbasket.test.TestBigbasketWithoutLogin<br>Parameters: {firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}</td>
+<td></td>
+<td>53</td>
+<td>com.htc.bigbasket.test.TestBigbasketWithoutLogin@29d89d5d</td></tr>
+<tr>
+<td title='com.htc.bigbasket.test.TestBigbasketWithoutLogin.test_ShopByOffer()'><b>test_ShopByOffer</b><br>Test class: com.htc.bigbasket.test.TestBigbasketWithoutLogin<br>Parameters: {firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}</td>
+<td></td>
+<td>54</td>
+<td>com.htc.bigbasket.test.TestBigbasketWithoutLogin@29d89d5d</td></tr>
+<tr>
+<td title='com.htc.bigbasket.test.TestBigbasketWithoutLogin.test_ShopBySearchFunctionality()'><b>test_ShopBySearchFunctionality</b><br>Test class: com.htc.bigbasket.test.TestBigbasketWithoutLogin<br>Parameters: {firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}</td>
+<td></td>
+<td>51</td>
+<td>com.htc.bigbasket.test.TestBigbasketWithoutLogin@29d89d5d</td></tr>
+<tr>
+<td title='com.htc.bigbasket.test.TestBigbasketWithLogin.test_UserLogin()'><b>test_UserLogin</b><br>Test class: com.htc.bigbasket.test.TestBigbasketWithLogin<br>Parameters: {firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}</td>
+<td></td>
+<td>46</td>
+<td>com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0</td></tr>
+<tr>
+<td title='com.htc.bigbasket.test.TestBigbasketWithLogin.test_UserProfileVarification()'><b>test_UserProfileVarification</b><br>Test class: com.htc.bigbasket.test.TestBigbasketWithLogin<br>Parameters: {firstname=prashant, profileEditAssert=Successfully Updated Profile, pageTitle=Buy THE BROOKLYN CREAMERY Summer Strawberries Ice Cream Online at Best Price - bigbasket, emptyCartMsg=There are no items in your basket., memberName=Prashant More, downloadAppTitle=Online Grocery Shopping and Online Supermarket in India - bigbasket, email=more23101996@gmail.com, lastname=more}</td>
+<td></td>
+<td>36</td>
+<td>com.htc.bigbasket.test.TestBigbasketWithLogin@3514a4c0</td></tr>
+</table><p>
+</body>
+</html>

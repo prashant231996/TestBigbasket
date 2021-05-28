@@ -1,0 +1,46 @@
+[INFO ] 2021-05-17 09:13:05.457 [main] BaseTest - Webdriver Started Sucseesfully
+[INFO ] 2021-05-17 09:29:36.948 [main] BaseTest - Webdriver Started Sucseesfully
+[INFO ] 2021-05-17 09:31:44.169 [main] BaseTest - Webdriver Started Sucseesfully
+[INFO ] 2021-05-17 09:49:41.275 [main] BaseTest - Webdriver Started Sucseesfully
+[INFO ] 2021-05-17 10:15:56.637 [main] BaseTest - Webdriver Started Sucseesfully
+[INFO ] 2021-05-17 10:50:14.150 [main] BaseTest - Webdriver Started Sucseesfully
+[INFO ] 2021-05-17 15:55:03.398 [main] BaseTest - Webdriver Started Sucseesfully
+[INFO ] 2021-05-17 15:57:23.893 [main] BaseTest - Webdriver Started Sucseesfully
+[INFO ] 2021-05-17 16:00:52.491 [main] BaseTest - Webdriver Started Sucseesfully
+[INFO ] 2021-05-17 16:10:23.951 [main] BaseTest - Webdriver Started Sucseesfully
+[INFO ] 2021-05-17 16:20:07.284 [main] BaseTest - Webdriver Started Sucseesfully
+[INFO ] 2021-05-17 19:57:40.504 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-17 19:57:41.551 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-17 19:57:42.025 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-17 19:58:17.248 [main] BasePage - By.xpath: //button[@class="btn btn-default btn-lg login-btn fixed-btn"] is clicked
+[INFO ] 2021-05-17 19:58:54.111 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-17 19:58:55.031 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-17 19:58:55.579 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-17 19:59:30.832 [main] BasePage - By.xpath: //button[@class="btn btn-default btn-lg login-btn fixed-btn"] is clicked
+[INFO ] 2021-05-17 19:59:41.146 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-17 19:59:46.351 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-17 20:04:17.363 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-17 20:04:18.079 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-17 20:04:18.569 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-17 20:04:53.774 [main] BasePage - By.xpath: //button[@class="btn btn-default btn-lg login-btn fixed-btn"] is clicked
+[INFO ] 2021-05-17 20:04:59.749 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-17 20:05:07.644 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-17 20:05:20.024 [main] BasePage - By.xpath: //a[contains(text(),"Summer Strawberries Ice Cream")] is clicked
+[INFO ] 2021-05-17 20:05:28.383 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-17 20:05:28.517 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-17 20:05:36.623 [main] BasePage - By.xpath: //span[contains(text(),"Prashant")] is clicked
+[INFO ] 2021-05-17 20:05:52.531 [main] BasePage - By.xpath: //a[contains(text(),"My Basket")] is clicked
+[INFO ] 2021-05-17 20:19:48.467 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-17 20:19:49.313 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-17 20:19:49.757 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-17 20:20:24.989 [main] BasePage - By.xpath: //button[@class="btn btn-default btn-lg login-btn fixed-btn"] is clicked
+[INFO ] 2021-05-17 20:20:30.566 [main] BasePage - By.xpath: //span[contains(text(),"Prashant")] is clicked
+[INFO ] 2021-05-17 20:20:42.280 [main] BasePage - By.linkText: My Account is clicked
+[INFO ] 2021-05-17 20:20:53.957 [main] BasePage - By.id: link-edit-profile is clicked
+[INFO ] 2021-05-17 20:21:02.252 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-17 20:21:10.451 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-17 20:21:18.669 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-17 20:21:26.903 [main] BasePage - By.name: dob is clicked
+[INFO ] 2021-05-17 20:21:51.297 [main] BasePage - By.xpath: //a[contains(text(),"14")] is clicked
+[INFO ] 2021-05-17 20:21:59.540 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-17 20:22:12.658 [main] BasePage - By.id: id_submit_edit_form is clicked

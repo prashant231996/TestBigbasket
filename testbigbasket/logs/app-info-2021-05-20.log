@@ -1,0 +1,55 @@
+[INFO ] 2021-05-20 10:41:56.858 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-20 10:41:57.624 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-20 10:41:57.880 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-20 10:42:33.052 [main] BasePage - By.xpath: //button[@class="btn btn-default btn-lg login-btn fixed-btn"] is clicked
+[INFO ] 2021-05-20 10:43:10.282 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-20 10:43:10.973 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-20 10:43:11.316 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-20 10:43:46.587 [main] BasePage - By.xpath: //button[@class="btn btn-default btn-lg login-btn fixed-btn"] is clicked
+[INFO ] 2021-05-20 10:43:52.939 [main] BasePage - By.xpath: //span[contains(text(),"Prashant")] is clicked
+[INFO ] 2021-05-20 10:44:04.928 [main] BasePage - By.linkText: My Account is clicked
+[INFO ] 2021-05-20 10:44:17.086 [main] BasePage - By.id: link-edit-profile is clicked
+[INFO ] 2021-05-20 10:44:25.407 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-20 10:44:33.704 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-20 10:44:42.016 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-20 10:48:45.933 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-20 10:48:46.806 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-20 10:48:47.408 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-20 10:49:22.659 [main] BasePage - By.xpath: //button[@class="btn btn-default btn-lg login-btn fixed-btn"] is clicked
+[INFO ] 2021-05-20 10:49:29.967 [main] BasePage - By.xpath: //span[contains(text(),"Prashant")] is clicked
+[INFO ] 2021-05-20 10:49:42.030 [main] BasePage - By.linkText: My Account is clicked
+[INFO ] 2021-05-20 10:49:53.793 [main] BasePage - By.id: link-edit-profile is clicked
+[INFO ] 2021-05-20 10:50:02.105 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-20 10:50:10.271 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-20 10:50:18.527 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-20 10:50:26.782 [main] BasePage - By.name: dob is clicked
+[INFO ] 2021-05-20 10:50:35.059 [main] BasePage - 1 is selected
+[INFO ] 2021-05-20 10:50:43.231 [main] BasePage - 1996 is selected
+[INFO ] 2021-05-20 10:51:08.350 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-20 10:51:21.167 [main] BasePage - By.id: id_submit_edit_form is clicked
+[INFO ] 2021-05-20 11:23:26.266 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-20 11:23:33.095 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-20 11:23:41.483 [main] BasePage - string:pricehtl is selected
+[INFO ] 2021-05-20 11:23:53.557 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-20 11:24:01.838 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-20 11:24:01.972 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-20 20:11:53.437 [main] BasePage - By.xpath: //img[@alt="GooglePlay-BB"] is clicked
+[INFO ] 2021-05-20 20:32:08.922 [main] BasePage - By.xpath: //img[@data-bannerplower="3071961:1"] is clicked
+[INFO ] 2021-05-20 20:33:43.726 [main] BasePage - By.xpath: //img[@data-bannerplower="3071961:1"] is clicked
+[INFO ] 2021-05-20 20:33:51.976 [main] BasePage - By.xpath: //img[@alt="GooglePlay-BB"] is clicked
+[INFO ] 2021-05-20 20:35:33.611 [main] BasePage - By.xpath: //img[@alt="GooglePlay-BB"] is clicked
+[INFO ] 2021-05-20 20:38:19.680 [main] BasePage - By.linkText: OFFERS is clicked
+[INFO ] 2021-05-20 20:38:28.653 [main] BasePage - By.xpath: //span[contains(text(),"10% - 15%")] is clicked
+[INFO ] 2021-05-20 20:38:42.120 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-20 20:38:50.537 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-20 20:38:50.660 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-20 20:41:52.488 [main] BasePage - By.linkText: OFFERS is clicked
+[INFO ] 2021-05-20 20:42:09.429 [main] BasePage - By.xpath: //span[contains(text(),"10% - 15%")] is clicked
+[INFO ] 2021-05-20 20:42:22.965 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-20 20:42:31.309 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-20 20:42:31.450 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-20 20:47:11.987 [main] BasePage - By.cssSelector: #dynamicDirective > carousel-only-image:nth-child(7) > section > section > div:nth-child(1) > div > div > a.ng-scope > img is clicked
+[INFO ] 2021-05-20 20:47:20.530 [main] BasePage - string:pricehtl is selected
+[INFO ] 2021-05-20 20:47:30.255 [main] BasePage - By.linkText: Rice - Ponni, Boiled is clicked
+[INFO ] 2021-05-20 20:47:38.564 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-20 20:47:38.702 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked

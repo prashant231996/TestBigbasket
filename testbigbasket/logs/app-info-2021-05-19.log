@@ -1,0 +1,161 @@
+[INFO ] 2021-05-19 09:19:31.426 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 09:19:40.443 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-19 09:19:53.230 [main] BasePage - By.xpath: //a[contains(text(),"Summer Strawberries Ice Cream")] is clicked
+[INFO ] 2021-05-19 09:20:01.525 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 09:20:01.656 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 09:51:56.218 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-19 09:51:57.163 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 09:51:57.739 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-19 09:52:32.912 [main] BasePage - By.xpath: //button[@class="btn btn-default btn-lg login-btn fixed-btn"] is clicked
+[INFO ] 2021-05-19 09:59:36.998 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-19 09:59:37.784 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 09:59:38.312 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-19 10:00:13.504 [main] BasePage - By.xpath: //button[@class="btn btn-default btn-lg login-btn fixed-btn"] is clicked
+[INFO ] 2021-05-19 10:06:57.030 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-19 10:06:57.712 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 10:06:58.103 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-19 10:07:33.322 [main] BasePage - By.xpath: //button[@class="btn btn-default btn-lg login-btn fixed-btn"] is clicked
+[INFO ] 2021-05-19 10:17:54.510 [main] BasePage - By.linkText: OFFERS is clicked
+[INFO ] 2021-05-19 10:18:03.658 [main] BasePage - By.xpath: //span[contains(text(),"10% - 15%")] is clicked
+[INFO ] 2021-05-19 10:18:44.032 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 10:18:49.121 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-19 10:19:03.423 [main] BasePage - By.xpath: //a[contains(text(),"Summer Strawberries Ice Cream")] is clicked
+[INFO ] 2021-05-19 10:19:11.695 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 10:19:11.823 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 10:55:58.496 [main] BasePage - By.linkText: OFFERS is clicked
+[INFO ] 2021-05-19 10:57:34.100 [main] BasePage - By.linkText: OFFERS is clicked
+[INFO ] 2021-05-19 10:57:43.580 [main] BasePage - By.xpath: //span[contains(text(),"10% - 15%")] is clicked
+[INFO ] 2021-05-19 10:57:51.859 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="clearfix"][1] is clicked
+[INFO ] 2021-05-19 11:21:49.402 [main] BasePage - By.linkText: OFFERS is clicked
+[INFO ] 2021-05-19 11:22:07.391 [main] BasePage - By.xpath: //span[contains(text(),"10% - 15%")] is clicked
+[INFO ] 2021-05-19 11:22:15.690 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"] is clicked
+[INFO ] 2021-05-19 11:53:27.122 [main] BasePage - By.linkText: OFFERS is clicked
+[INFO ] 2021-05-19 11:53:36.289 [main] BasePage - By.xpath: //span[contains(text(),"10% - 15%")] is clicked
+[INFO ] 2021-05-19 11:53:49.427 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 11:53:57.886 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 11:53:58.081 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 12:14:50.827 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 12:14:54.688 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-19 12:15:03.251 [main] BasePage - string:pricehtl is selected
+[INFO ] 2021-05-19 12:15:15.046 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 12:17:42.685 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 12:17:50.041 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-19 12:17:58.434 [main] BasePage - string:pricehtl is selected
+[INFO ] 2021-05-19 12:18:12.014 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 12:18:20.313 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 12:18:20.443 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 12:30:16.682 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 12:30:24.450 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-19 12:30:32.836 [main] BasePage - string:pricehtl is selected
+[INFO ] 2021-05-19 12:30:45.432 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 12:30:53.723 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 12:30:53.848 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 12:42:25.590 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 12:42:33.150 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-19 12:42:41.579 [main] BasePage - string:pricehtl is selected
+[INFO ] 2021-05-19 12:42:53.640 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 12:43:01.963 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 12:43:02.089 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 12:47:22.286 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 12:47:30.804 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-19 12:47:39.235 [main] BasePage - string:pricehtl is selected
+[INFO ] 2021-05-19 12:47:52.453 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 12:48:00.794 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 12:48:01.028 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 12:56:07.850 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 12:56:14.649 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-19 12:56:23.126 [main] BasePage - string:pricehtl is selected
+[INFO ] 2021-05-19 12:56:34.781 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 12:56:43.079 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 12:56:43.211 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 16:10:49.891 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:11:01.579 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-19 16:11:10.200 [main] BasePage - string:pricehtl is selected
+[INFO ] 2021-05-19 16:11:22.442 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 16:11:30.717 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:11:30.851 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 16:21:43.962 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:21:51.442 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-19 16:21:59.808 [main] BasePage - string:pricehtl is selected
+[INFO ] 2021-05-19 16:22:12.120 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 16:22:20.402 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:22:20.531 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 16:27:45.116 [main] BasePage - By.linkText: OFFERS is clicked
+[INFO ] 2021-05-19 16:28:48.318 [main] BasePage - By.linkText: OFFERS is clicked
+[INFO ] 2021-05-19 16:28:58.548 [main] BasePage - By.xpath: //span[contains(text(),"10% - 15%")] is clicked
+[INFO ] 2021-05-19 16:29:12.523 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 16:29:20.904 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:29:21.042 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 16:30:16.696 [main] BasePage - By.linkText: OFFERS is clicked
+[INFO ] 2021-05-19 16:30:26.387 [main] BasePage - By.xpath: //span[contains(text(),"10% - 15%")] is clicked
+[INFO ] 2021-05-19 16:30:39.584 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 16:30:47.968 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:30:48.094 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 16:31:37.355 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-19 16:31:38.046 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:31:38.440 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-19 16:32:40.028 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-19 16:32:40.738 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:32:41.132 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-19 16:33:16.357 [main] BasePage - By.xpath: //button[@class="btn btn-default btn-lg login-btn fixed-btn"] is clicked
+[INFO ] 2021-05-19 16:33:24.571 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:33:37.151 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-19 16:33:45.515 [main] BasePage - string:pricehtl is selected
+[INFO ] 2021-05-19 16:33:59.827 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 16:34:08.166 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:34:08.289 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 16:34:16.410 [main] BasePage - By.xpath: //span[contains(text(),"Prashant")] is clicked
+[INFO ] 2021-05-19 16:34:33.513 [main] BasePage - By.xpath: //a[contains(text(),"My Basket")] is clicked
+[INFO ] 2021-05-19 16:36:14.628 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-19 16:36:15.306 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:36:15.666 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-19 16:36:50.780 [main] BasePage - By.xpath: //button[@class="btn btn-default btn-lg login-btn fixed-btn"] is clicked
+[INFO ] 2021-05-19 16:37:36.071 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-19 16:37:36.702 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:37:37.066 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-19 16:38:12.255 [main] BasePage - By.xpath: //button[@class="btn btn-default btn-lg login-btn fixed-btn"] is clicked
+[INFO ] 2021-05-19 16:38:19.430 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:38:24.368 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-19 16:38:32.701 [main] BasePage - string:pricehtl is selected
+[INFO ] 2021-05-19 16:38:48.194 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 16:38:56.473 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:38:56.588 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 16:39:04.706 [main] BasePage - By.xpath: //span[contains(text(),"Prashant")] is clicked
+[INFO ] 2021-05-19 16:39:24.627 [main] BasePage - By.xpath: //a[contains(text(),"My Basket")] is clicked
+[INFO ] 2021-05-19 16:47:15.722 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-19 16:47:16.383 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:47:16.901 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-19 16:47:52.115 [main] BasePage - By.xpath: //button[@class="btn btn-default btn-lg login-btn fixed-btn"] is clicked
+[INFO ] 2021-05-19 16:47:59.844 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:48:05.414 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-19 16:48:13.783 [main] BasePage - string:pricehtl is selected
+[INFO ] 2021-05-19 16:48:28.693 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 16:54:30.108 [main] BasePage - By.linkText: Login is clicked
+[INFO ] 2021-05-19 16:54:30.861 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:54:31.368 [main] BasePage - By.xpath: //button[@class="btn btn-default login-btn"] is clicked
+[INFO ] 2021-05-19 16:55:06.550 [main] BasePage - By.xpath: //button[@class="btn btn-default btn-lg login-btn fixed-btn"] is clicked
+[INFO ] 2021-05-19 16:55:14.572 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:55:21.562 [main] BasePage - By.xpath: //button[@qa="searchBtn"] is clicked
+[INFO ] 2021-05-19 16:55:29.930 [main] BasePage - string:pricehtl is selected
+[INFO ] 2021-05-19 16:55:44.261 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 16:55:52.576 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 16:55:52.698 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 16:56:00.803 [main] BasePage - By.xpath: //span[contains(text(),"Prashant")] is clicked
+[INFO ] 2021-05-19 16:56:16.943 [main] BasePage - By.xpath: //a[contains(text(),"My Basket")] is clicked
+[INFO ] 2021-05-19 19:56:20.232 [main] BasePage - By.xpath: //a[@qa="categoryDD"] is clicked
+[INFO ] 2021-05-19 19:56:36.407 [main] BasePage - By.linkText: Kitchen, Garden & Pets is clicked
+[INFO ] 2021-05-19 19:56:49.514 [main] BasePage - By.linkText: Ultra-Alkaline Battery AAA is clicked
+[INFO ] 2021-05-19 19:56:57.835 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 19:56:57.966 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 20:06:01.483 [main] BasePage - By.xpath: //a[@qa="categoryDD"] is clicked
+[INFO ] 2021-05-19 20:06:12.899 [main] BasePage - By.linkText: Kitchen, Garden & Pets is clicked
+[INFO ] 2021-05-19 20:06:21.418 [main] BasePage - string:offers is selected
+[INFO ] 2021-05-19 20:06:34.405 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 20:06:42.699 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 20:06:42.832 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked
+[INFO ] 2021-05-19 20:21:43.527 [main] BasePage - By.xpath: //a[@qa="categoryDD"] is clicked
+[INFO ] 2021-05-19 20:21:59.403 [main] BasePage - By.linkText: Kitchen, Garden & Pets is clicked
+[INFO ] 2021-05-19 20:22:07.914 [main] BasePage - string:offers is selected
+[INFO ] 2021-05-19 20:22:20.759 [main] BasePage - By.xpath: //div[@qa="product"]//product-template[@itmpos="1"]//div[@class="col-sm-12 col-xs-5 prod-view ng-scope"] is clicked
+[INFO ] 2021-05-19 20:22:29.074 [main] BasePage - keys send to element successfully
+[INFO ] 2021-05-19 20:22:29.209 [main] BasePage - By.xpath: //span[contains(text(),"ADD TO BASKET")] is clicked

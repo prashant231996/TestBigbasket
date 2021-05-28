@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	
+	   <listeners>
+		
+			<listener class-name="com.htc.bigbasket.listners.Listeners" />
+			
+	</listeners> 
+	
+	<test name="Test BigBasket" thread-count="5">
+	
+		<classes>
+		
+			     <!--   <class name="com.htc.bigbasket.test.LoginTest"></class> -->
+			      <class name="com.htc.bigbasket.test.TestBigbasketWithoutLogin"></class>
+			   <!--      <class name="com.htc.bigbasket.test.ShopBySearch"></class>-->
+			         <class name="com.htc.bigbasket.test.TestBigbasketWithLogin"></class>
+			       <!--  <class name="com.htc.bigbasket.test.AddProductToCart"></class>-->
+			            <!--   <class name="com.htc.bigbasket.test.EditProfileTest"></class>-->
+			          <!-- <class name="com.htc.bigbasket.test.ProductCostVarificationTest"></class>-->
+			       <!--  <class name="com.htc.bigbasket.test.ShopBySearch"></class>-->
+			        <!--    <class name="com.htc.bigbasket.test.ShopByCategoryTest"></class> -->
+			        <!-- <class name="com.htc.bigbasket.test.ShopByDealOfTheWeek"></class> -->
+			           <!--   <class name="com.htc.bigbasket.test.ShopByOffer"></class> -->
+			         <!--  <class name="com.htc.bigbasket.test.AppDownloadTest"></class>-->
+			          
+		</classes>
+	</test>
+
+</suite>
