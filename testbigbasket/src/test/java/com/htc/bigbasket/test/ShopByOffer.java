@@ -25,8 +25,12 @@ public class ShopByOffer extends BaseTest{
 	public void test_ShopByOffer(Map<String, String> mapData) throws IOException, InterruptedException {
 		
 		try {
+			//returnpage.loginpage().doLogin(mapData.get("email"));
 			//homepage=loginpage.doLogin(mapData.get("email"));
 			productpage=homepage.searchProductByOffer();
+			//homepage.searchPProduct();
+			//returnpage.homepage().searchProductByOffer();
+			//returnpage.productpage().clickProductByOffer();
 			cartpage=productpage.clickProductByOffer();
 			String productName=productpage.getProductText();
 			cartpage.addProductToCartWithoutLogIn();

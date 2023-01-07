@@ -15,9 +15,9 @@
 		<classes>
 		
 			     <!--   <class name="com.htc.bigbasket.test.LoginTest"></class> -->
-			      <class name="com.htc.bigbasket.test.TestBigbasketWithoutLogin"></class>
+			       <class name="com.htc.bigbasket.test.TestBigbasketWithoutLogin"></class>
 			   <!--      <class name="com.htc.bigbasket.test.ShopBySearch"></class>-->
-			         <class name="com.htc.bigbasket.test.TestBigbasketWithLogin"></class>
+			     <!--   <class name="com.htc.bigbasket.test.TestBigbasketWithLogin"></class>-->
 			       <!--  <class name="com.htc.bigbasket.test.AddProductToCart"></class>-->
 			            <!--   <class name="com.htc.bigbasket.test.EditProfileTest"></class>-->
 			          <!-- <class name="com.htc.bigbasket.test.ProductCostVarificationTest"></class>-->

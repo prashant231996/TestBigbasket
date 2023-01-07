@@ -18,7 +18,6 @@ import com.htc.bigbasket.pages.BasePage;
 			 //File name=new File(screenshotpath);
 			File name=BasePage.creatingFile(screenshotpath);
 			  name.mkdir();
-
 			File file = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 			//File s = new File(screenshotpath+"\\"+methodname+".jpg");
 			File s=BasePage.creatingFile((screenshotpath+"\\"+methodname+".jpg"));

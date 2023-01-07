@@ -33,6 +33,7 @@ import com.htc.bigbasket.pages.PaymentPage;
 import com.htc.bigbasket.pages.ProductPage;
 import com.htc.bigbasket.pages.ProfilePage;
 import com.htc.bigbasket.pages.RegistrationPage;
+import com.htc.bigbasket.returnpageobject.ReturnPage;
 import com.htc.bigbasket.utility.BrowserFactory;
 import com.htc.bigbasket.utility.PropertyManager;
 
@@ -58,6 +59,7 @@ public class BaseTest {
     protected static ExtentTest test;
     protected static ExtentTest parenttest;
     protected static ExtentTest childtest;
+   // protected static ReturnPage returnpage;
 	
 	//Logger logger = Logger.getLogger("ServiceMain");
 	private static Logger logger=LogManager.getLogger(BaseTest.class);

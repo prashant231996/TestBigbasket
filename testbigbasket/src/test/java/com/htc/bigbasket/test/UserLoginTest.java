@@ -18,6 +18,7 @@ public class UserLoginTest extends BaseTest{
 		
 		try {
 			homepage=loginpage.doLogin(mapData.get("email"));
+			//returnpage.loginpage().doLogin(mapData.get("email"));
 			Assert.assertTrue(homepage.assert_login());
 			childtest=test.createNode("User Login Functionality");
 			childtest.log(Status.PASS, MarkupHelper.createLabel("User login successfully", ExtentColor.BLUE));

@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.Map;
 
 import org.testng.Assert;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
@@ -159,6 +160,12 @@ public class TestBigbasketWithoutLogin extends BaseTest{
 			Assert.fail();
 		}
 }	
+	
+	@AfterTest 
+	public void endTest()
+	{
+		//driver.close();
+	}
 
 	
 	

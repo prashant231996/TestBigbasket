@@ -44,6 +44,7 @@ public class LoginPage extends BasePage implements LoginPageObject,HomePageObjec
 			   clickElement(finalloginBtn);
 			   waitForPageLoad();
 			   waitToBeVisibile( accountBtn);
+			   //return returnpage.homepage();
 				homepage=new HomePage(driver);
 				return homepage;
 		
@@ -52,33 +53,8 @@ public class LoginPage extends BasePage implements LoginPageObject,HomePageObjec
 		e.printStackTrace();
 		throw new MyException("DoLogin failed due to exception "+e.getLocalizedMessage());
 	}
-		//driver.findElement(loginBtn).click();
-		//driver.findElement(emailfield).sendKeys(email);
-		/*try {
-			sendKeys(emailfield,email,driver);
-		} catch (NullElementException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		//driver.findElement(loginusingotpBtn).click();
-		try {
-			clickElement(loginusingotpBtn,driver);
-		} catch (NullElementException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		waitForOtpRequest();
-		//driver.findElement(finalloginBtn).click();
-		try {
-			clickElement(finalloginBtn,driver);
-		} catch (NullElementException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		 waitToBeVisibile( accountBtn,driver);
-		homepage=new HomePage(driver);
-		return homepage;*/
+	
 	}
 	
-		
+	
 }

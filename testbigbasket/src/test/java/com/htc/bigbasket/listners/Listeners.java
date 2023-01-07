@@ -79,7 +79,4 @@ public class Listeners extends BaseTest implements ITestListener{
 		childtest.log(Status.SKIP,"Test Skipped");
 	}
 
-	public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
-		System.out.println("*** Test failed but within percentage % " + result.getMethod().getMethodName());
-	}
 }

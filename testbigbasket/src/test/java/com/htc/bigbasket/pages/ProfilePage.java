@@ -58,6 +58,39 @@ public class ProfilePage extends BasePage implements ProfilePageObject{
 		
 	}
 	
+	public void edittProfile(String firstName,String lastName,String mobileNo,String email,String dob) throws MyException
+	{
+		try {
+		clickElement(editProfileBtn);
+		waitForPageLoad();
+		//clickElement(salutationEleForMale,driver);
+		//waitForPageLoad();
+		clearElement(firstnameEle);
+		sendKeys(firstnameEle,firstName);
+		waitForPageLoad();
+		clearElement(lastnameEle);
+		sendKeys(lastnameEle,lastName);
+		waitForPageLoad();
+		clearElement(emailEle);
+		sendKeys(emailEle,email);
+		waitForPageLoad();
+		clickElement(dobEle);
+		waitForPageLoad();
+		dateSelector(dob);
+		waitForPageLoad();
+		clearElement(mobileNoEle);
+		sendKeys(mobileNoEle,mobileNo);
+		waitForPageLoad();
+		clickElement(savechangesBtn);
+		waitForPageLoad();
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+			throw new MyException("editProfile function failed due to exception "+e.getLocalizedMessage());
+		}
+		
+	}
 	public boolean assert_profileEdited() throws MyException {
 		try
 		{

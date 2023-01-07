@@ -19,8 +19,9 @@ public class EditProfileTest extends BaseTest{
 		
 		try {
 			homepage=loginpage.doLogin(mapData.get("email"));
-			childtest=test.createNode("childNode");
+			//childtest=test.createNode("childNode");
 			profilepage=homepage.goToProfile();
+			//profilepage.editProfile();
 			profilepage.editProfile();
 			String actualMsg=profilepage.getEditAssertMsg();
 			Assert.assertEquals(actualMsg, mapData.get("profileEditAssert"));

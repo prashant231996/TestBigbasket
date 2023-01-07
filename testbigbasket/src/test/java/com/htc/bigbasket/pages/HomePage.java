@@ -27,7 +27,6 @@ public class HomePage extends BasePage implements HomePageObject{
 	public ProductPage searchProduct() throws MyException
 	{
 		
-		//driver.findElement(searchBox).sendKeys(productName);
 		try {
 			ProductPage productpage=null;
 			sendKeys(searchBox,productName);
@@ -42,6 +41,8 @@ public class HomePage extends BasePage implements HomePageObject{
 		}
 	
 	}
+	
+	
 	
 	public ProductPage searchProductForCostVarify() throws MyException
 	{
@@ -147,6 +148,7 @@ public class HomePage extends BasePage implements HomePageObject{
 			clickElement(accountBtn);
 			waitForPageLoad();
 			moveToElementAndClick(logOutBtn);
+			waitForPageLoad();
 		}catch(Exception e)
 		{
 			e.printStackTrace();

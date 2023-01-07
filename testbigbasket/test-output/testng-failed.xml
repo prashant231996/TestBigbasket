@@ -6,10 +6,18 @@
   </listeners>
   <test thread-count="5" name="Test BigBasket(failed)">
     <classes>
+      <class name="com.htc.bigbasket.test.TestBigbasketWithLogin">
+        <methods>
+          <include name="doLogOut"/>
+          <include name="test_EditUserProfileTest" invocation-numbers="0"/>
+          <include name="browserSetup"/>
+        </methods>
+      </class> <!-- com.htc.bigbasket.test.TestBigbasketWithLogin -->
       <class name="com.htc.bigbasket.test.TestBigbasketWithoutLogin">
         <methods>
+          <include name="test_ShopByDealOfWeekOffers" invocation-numbers="0"/>
+          <include name="endTest"/>
           <include name="browserSetup"/>
-          <include name="test_ShopByCategory" invocation-numbers="0"/>
         </methods>
       </class> <!-- com.htc.bigbasket.test.TestBigbasketWithoutLogin -->
     </classes>

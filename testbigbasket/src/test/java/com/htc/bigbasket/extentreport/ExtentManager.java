@@ -4,7 +4,7 @@ import java.io.File;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
-import com.aventstack.extentreports.reporter.configuration.ChartLocation;
+//import com.aventstack.extentreports.reporter.configuration.ChartLocation;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 import com.htc.bigbasket.constant.Constants;
 import com.htc.bigbasket.pages.BasePage;
@@ -27,7 +27,7 @@ public class ExtentManager{
 		String fileName = getReportPath(reportFilepath);
 
 		ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter(fileName);
-		htmlReporter.config().setTestViewChartLocation(ChartLocation.BOTTOM);
+		//htmlReporter.config().setTestViewChartLocation(ChartLocation.BOTTOM);
 		htmlReporter.config().setChartVisibilityOnOpen(true);
 		htmlReporter.config().setTheme(Theme.DARK);
 		htmlReporter.config().setDocumentTitle(reportFileName);

@@ -105,7 +105,7 @@ public class ProductPage extends BasePage implements ProductPageObject{
 	{
 		try {
 			CartPage cartpage=null;
-			dropdown(dropdownBtn, dropDownValueFoeRuppeSavingHighToLow);
+			dropdown(dropdownBtn, dropDownValueOfferHighToLow);
 			waitForPageLoad();
 		//	scrollPageDown(driver,scrolleleToBuyFromTopOffer);
 			clickElement(productNameWithTopOffer);

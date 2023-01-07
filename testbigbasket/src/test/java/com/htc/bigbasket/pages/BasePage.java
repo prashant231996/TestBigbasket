@@ -19,13 +19,15 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import com.htc.bigbasket.exceptions.MyException;
+import com.htc.bigbasket.returnpageobject.ReturnPage;
 public class BasePage {
 
 	protected static WebDriver driver=null;
 	
 	private static Logger logger=LogManager.getLogger(BasePage.class);
 	
-	
+	// protected static ReturnPage returnpage;
+	 
 	public BasePage(WebDriver driver) {
 		
 		this.driver = driver;

@@ -18,7 +18,6 @@ import com.htc.bigbasket.pages.LoginPage;
 
 
 
-@Test(groups= {"AllTestWithLogin"})
 public class TestBigbasketWithLogin extends BaseTest{
 	
 	@Test(dataProviderClass =com.htc.bigbasket.dataprovider.TestDataProvider.class, dataProvider = "UserData",priority=1)
@@ -152,6 +151,7 @@ public class TestBigbasketWithLogin extends BaseTest{
 	{
 		try {
 			homepage.doLogOut();
+			//driver.close();
 		} catch (MyException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
